@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/MeteoGroup/grib2geotiff.svg?branch=master)](https://travis-ci.org/MeteoGroup/grib2geotiff/)
+[![Build Status](https://travis-ci.org/MeteoGroup/grib2geotiff.svg?branch=master)](https://travis-ci.org/MeteoGroup/grib2geotiff/) [![codecov](https://codecov.io/gh/teeschke/grib2geotiff/branch/master/graph/badge.svg)](https://codecov.io/gh/teeschke/grib2geotiff)
 
 Note: work on [version 2](https://github.com/MeteoGroup/grib2geotiff/tree/v2) in progress
 
