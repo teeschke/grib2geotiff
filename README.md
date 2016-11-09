@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/MeteoGroup/grib2geotiff.svg?branch=v2)](https://travis-ci.org/MeteoGroup/grib2geotiff/)
+[![Build Status](https://travis-ci.org/MeteoGroup/grib2geotiff.svg?branch=v2)](https://travis-ci.org/MeteoGroup/grib2geotiff/) [![codecov](https://codecov.io/gh/teeschke/grib2geotiff/branch/v2/graph/badge.svg)](https://codecov.io/gh/teeschke/grib2geotiff)
 
 # grib2geotiff - Gribfile to Geotiff
 
