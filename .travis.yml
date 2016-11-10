@@ -9,3 +9,4 @@ cache:
 
 after_success:
   - bash <(curl -s https://codecov.io/bash)
+  - mvn com.gavinmogan:codacy-maven-plugin:coverage -DcoverageReportFile=target/site/jacoco/jacoco.xml -DprojectToken=21f02b33adb54c31802825ba8815edd7 -DapiToken=21f02b33adb54c31802825ba8815edd7
